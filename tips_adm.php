@@ -44,7 +44,7 @@
             </nav>
 
             <div class="container-fluid">
-                <h3>If You Need Some Tips</h3>
+                <h3>Creat the New Tips</h3>
                 <div class="row">
                     <div class="col-sm-6">
                         <h3 class="ms-2 mt-4 me-4 mb-lg-3" style="text-align:right;"><img src="images/kantor.png" style="float: left; width: 10rem;" alt="">
