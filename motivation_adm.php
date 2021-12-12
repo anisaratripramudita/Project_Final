@@ -51,11 +51,11 @@
                             <h5 class="ms-2 mt-4 me-4 mb-3" style="text-align:center;"><img src="images/tired.png" style="float: left; width: 6rem;" alt="">
                                 When you feel tired</h5>
                             <div class="footer">
-                                <button type="submit" class="btn btn-outline-light float-end me-2 mb-2">
+                                <a href="form_motivation.php" class="btn btn-outline-light float-end me-2 mb-2">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus" viewBox="0 0 16 16">
                                         <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
                                     </svg>
-                                </button>
+                                </a>
                             </div>
                         </div>
                         <div class="row mt-lg-5">
@@ -64,11 +64,11 @@
                                     <h5 class="ms-2 mt-4 me-4 mb-3" style="text-align:center;"><img src="images/lonely.png" style="float: left; width: 7rem;" alt="">
                                         When you feel sad</h5>
                                     <div class="footer">
-                                        <button type="button" class="btn btn-outline-light float-end me-2 mb-2">
+                                        <a href="form_motivation.php" class="btn btn-outline-light float-end me-2 mb-2">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus" viewBox="0 0 16 16">
                                                 <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
                                             </svg>
-                                        </button>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -79,11 +79,11 @@
                             <h5 class="ms-2 mt-4 me-4" style="text-align:center;"><img src="images/scare.png" style="float: left; width: 6rem;" alt="">
                                 When you feel scare</h5>
                             <div class="footer">
-                                <button type="button" class="btn btn-outline-light float-end me-2 mb-2">
+                                <a href="form_motivation.php" class="btn btn-outline-light float-end me-2 mb-2">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus" viewBox="0 0 16 16">
                                         <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
                                     </svg>
-                                </button>
+                                </a>
                             </div>
                         </div>
                         <div class="row mt-lg-5">
@@ -92,11 +92,11 @@
                                     <h5 class="ms-2 mt-4 me-4" style="text-align:center;"><img src="images/overthinking.png" style="float: left; width: 5rem;" alt="">
                                         When you feel overthinking</h5>
                                     <div class="footer">
-                                        <button type="button" class="btn btn-outline-light float-end me-2 mb-2">
+                                        <a href="form_motivation.php" class="btn btn-outline-light float-end me-2 mb-2">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus" viewBox="0 0 16 16">
                                                 <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
                                             </svg>
-                                        </button>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
