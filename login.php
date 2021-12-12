@@ -18,7 +18,7 @@
         <!-- Sidbar -->
         <!-- Sidbar -->
         <div class="sidebar" style="background-color: #A9BA9D;" id="sidebar-wrapper">
-            <div class="sidebar-heading text-left py-4 primary-text fs-4 fw-bold border-bottom">
+            <div class="sidebar-heading text-left py-4 pb-lg-5 fw-bold border-bottom">
                 <h5>
                     <p>1% better every day.</p>
                 </h5>
@@ -26,11 +26,11 @@
                     <p>Build your habit,</p>
                 </h5>
                 <h5>
-                    <p>built your life.</p>
+                    <p>build your life.</p>
                 </h5>
             </div>
-            <div class="sidebar-footer" style="height:fit-content ;">
-                <img src="images/study.png" style="float: center; width: 15rem;" alt="">
+            <div class="sidebar-footer py-xl-5 mb-4 mt-lg-5">
+                <img src="images/study.png" style="width: 15rem;" alt="">
             </div>
         </div>
         <!-- Akhir Sidebar -->
